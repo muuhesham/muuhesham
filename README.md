@@ -1,5 +1,6 @@
 <h1 align="center">Hi There 👋, I'm Muhammed</h1>
 <h3 align="center">Junior Full-Stack Web Development  || CS Student</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muuhesham&label=Profile%20views&color=0e75b6&style=flat" alt="muuhesham" /> </p>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ2Mjl0Z2hjemt6anB4NjFtcnQ4M2hhM2owNjg3eHZzaDR2cnN6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.webp">
 📫 Connect with me via <a href="mailto:muhammedhesham488@gmail.com" target="blank">email</a> if you have any questions or collaboration opportunities!
 <h3 align="left">Find Me</h3>
