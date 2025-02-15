@@ -1,10 +1,10 @@
 <h1 align="center">Hi There 👋, I'm Muhammed</h1>
 <h3 align="center"> Full-Stack Developer || CS Student</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZ2Mjl0Z2hjemt6anB4NjFtcnQ4M2hhM2owNjg3eHZzaDR2cnN6bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/13rQ7rrTrvZXlm/giphy.webp">
-📫 Connect with me via <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muhammedhesham488@gmail.com" target="blank">email</a> if you have any questions or collaboration opportunities!
+📫 Connect with me via <a href="https://mail.google.com/mail/?view=cm&fs=1&to=muhammedhesham488@gmail.com" target="_blank">email</a> if you have any questions or collaboration opportunities!
 <h3 align="left">Find Me</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/muhammed-hesham48/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed hesham" height="30" width="40" /></a>                  
+<a href="https://www.linkedin.com/in/muhammed-hesham48/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed hesham" height="30" width="40" /></a>                  
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
