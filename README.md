@@ -106,7 +106,7 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
         <li>Architected with PostgreSQL, Prisma ORM, and Redis caching.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/muuhesham/graduation_project"><b>View Repository →</b></a>
+        <a href="https://github.com/muuhesham/graduation_project"><b>View Source Code →</b></a>
       </p>
     </td>
     <!-- Project 2 -->
@@ -126,7 +126,7 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
         <li>Full-stack architecture using TypeScript, React, and MongoDB.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/muuhesham/smart-study-backend"><b>View Repository →</b></a>
+        <a href="https://github.com/muuhesham/smart-study-backend"><b>View Source Code →</b></a>
       </p>
     </td>
   </tr>
@@ -147,7 +147,7 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
         </p>
         <p>Complete shopping workflow: product filtering, dynamic cart management, user authentication, and order lifecycle tracking.</p>
         <p>
-          <a href="https://github.com/muuhesham/ecommerce-website"><b>View Repository →</b></a>
+          <a href="https://github.com/muuhesham/ecommerce-website"><b>View Source Code →</b></a>
         </p>
       </div>
     </td>
@@ -162,7 +162,7 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
   <a href="mailto:muhammedhesham488@gmail.com">
     <img src="https://img.shields.io/badge/Get_In_Touch-111927?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Contact Me" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammed-hesham48/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammedhesham48/" target="_blank">
     <img src="https://img.shields.io/badge/Connect_on_LinkedIn-111927?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
   </a>
 </div>
