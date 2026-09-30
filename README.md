@@ -27,40 +27,6 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
 
 ---
 
-### What I Deliver
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🛒 E-Commerce Applications</h4>
-      <p>Scalable, high-conversion online stores with robust backend architecture.</p>
-      <code>Product Catalogs</code> • <code>Cart Management</code> • <code>Checkout & Orders</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📊 Admin & Analytics Dashboards</h4>
-      <p>Data-driven management panels built for performance and deep operational control.</p>
-      <code>Role-Based Access (RBAC)</code> • <code>Data Tables</code> • <code>Analytics Sync</code>
-    </td>
-  </tr>
-</table>
-
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🚀 Landing Pages</h4>
-      <p>Modern, responsive, and performance-optimized frontends designed to convert.</p>
-      <code>Pixel-Perfect UI</code> • <code>Responsive Design</code> • <code>Fast Load Times</code>
-    </td>
-    <td width="50%" valign="top">
-      <h4>⚡ Real-Time Applications</h4>
-      <p>Interactive web solutions powered by instant, event-driven data transfer.</p>
-      <code>WebSockets</code> • <code>Live Sync</code> • <code>Instant Notifications</code>
-    </td>
-  </tr>
-</table>
-
----
-
 ### Tech Stack
 
 **Backend & Architecture**
@@ -92,7 +58,7 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
     <!-- Project 1 -->
     <td width="50%" valign="top">
       <a href="https://github.com/muuhesham/graduation_project">
-        <img src="https://private-user-images.githubusercontent.com/166420432/622602605-397e80fb-57b5-4617-8d6b-d713b2d782f7.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODk0MDA2NjIsIm5iZiI6MTc4OTQwMDM2MiwicGF0aCI6Ii8xNjY0MjA0MzIvNjIyNjAyNjA1LTM5N2U4MGZiLTU3YjUtNDYxNy04ZDZiLWQ3MTNiMmQ3ODJmNy5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDkxNCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA5MTRUMTUzOTIyWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9ZGMzMzZkMDFlNmRlNzhhZmQ4MThiNzE0YTc0YjZmYWMzN2M3NWY3ODFkOTlkZDgwMzliYzJhYTM0OTI5ZDgwMCZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.aqHPJMUDfH7lrGtIVb-WhC3WO05v_ozk8m1n4Bqv3B4" alt="Fa3liat Platform" width="100%" style="border-radius: 6px;" />
+        <img src="https://private-user-images.githubusercontent.com/166420432/622602605-397e80fb-57b5-4617-8d6b-d713b2d782f7.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA4MDQ1NTYsIm5iZiI6MTc5MDgwNDI1NiwicGF0aCI6Ii8xNjY0MjA0MzIvNjIyNjAyNjA1LTM5N2U4MGZiLTU3YjUtNDYxNy04ZDZiLWQ3MTNiMmQ3ODJmNy5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDkzMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA5MzBUMjEzNzM2WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9OWQzZTVmYTI3MmViNDE5Y2VlNGE5NmU2N2YzYmE1NzdjOWY2MGQxODIzZDRmNjk5ZGMyMDE4MDgyYzYxNTVhYSZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.79uZLzEQPaeSOrDHUGMMWIY4zWFLgiiiD7PkiTBbfIQ" alt="Fa3liat Platform" width="100%" style="border-radius: 6px;" />
       </a>
       <h3 align="center">Fa3liat Web & Mobile Application</h3>
       <p align="center">
@@ -112,7 +78,7 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
     <!-- Project 2 -->
     <td width="50%" valign="top">
       <a href="https://github.com/muuhesham/smart-study-backend">
-        <img src="https://private-user-images.githubusercontent.com/166420432/646726800-c59a1221-4022-447b-8c81-408611a2fc48.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODk0MDA3NzEsIm5iZiI6MTc4OTQwMDQ3MSwicGF0aCI6Ii8xNjY0MjA0MzIvNjQ2NzI2ODAwLWM1OWExMjIxLTQwMjItNDQ3Yi04YzgxLTQwODYxMWEyZmM0OC5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDkxNCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA5MTRUMTU0MTExWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9MzBjZDQ2ZmIzOWZmYjJhZGU1NTdhZjllNWI1NWZiMzE2OWM1MzczYjcxMDk5NTI5MWNjMzA5ZTJkYTM5YWNiMiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.Ux-ttUXEyyffy59QpV1uhJY1vaWYdLZZG4rrvYrSqEo" alt="Smart Study Dashboard" width="100%" style="border-radius: 6px;" />
+        <img src="https://private-user-images.githubusercontent.com/166420432/646726800-c59a1221-4022-447b-8c81-408611a2fc48.jpeg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA4MDQ2NDMsIm5iZiI6MTc5MDgwNDM0MywicGF0aCI6Ii8xNjY0MjA0MzIvNjQ2NzI2ODAwLWM1OWExMjIxLTQwMjItNDQ3Yi04YzgxLTQwODYxMWEyZmM0OC5qcGVnP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI2MDkzMCUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNjA5MzBUMjEzOTAzWiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NGVlMzNkM2RkM2Y5MWUyNDFiZGIzNzgwMmQ2ZmVhNzQ5Mjc4NTY3MTEzMzAzZWE2ZDNkODA5M2M5YmZlMWFjNiZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QmcmVzcG9uc2UtY29udGVudC10eXBlPWltYWdlJTJGanBlZyJ9.VS3D1An46u9Cr2HpMdp74NF0PqSgD5iln-0BHuhZQj0" alt="Smart Study Dashboard" width="100%" style="border-radius: 6px;" />
       </a>
       <h3 align="center">Smart Study Dashboard</h3>
       <p align="center">
@@ -138,7 +104,7 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
     <td width="100%" valign="top">
       <div align="center">
         <a href="https://github.com/muuhesham/ecommerce-website">
-          <img src="https://private-user-images.githubusercontent.com/166420432/407426179-62736dbb-7e54-4c7f-9900-dec90434fca9.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODk0MDA3MTcsIm5iZiI6MTc4OTQwMDQxNywicGF0aCI6Ii8xNjY0MjA0MzIvNDA3NDI2MTc5LTYyNzM2ZGJiLTdlNTQtNGM3Zi05OTAwLWRlYzkwNDM0ZmNhOS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTE0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkxNFQxNTQwMTdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00YzgzM2E4MjE0MTVjMTczYjZmZTVlMmY1NWI3NWMxMjIwZWM4ZDhhNTBiNDg2OTNlMmIwNDM4ZTY2YjNmYzUwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.Vf-8AyzIdk419pyBbH4Ov44Ax1_vY0hychqmpp7U420" alt="GEN-Z Store" width="70%" style="border-radius: 6px;" />
+          <img src="https://private-user-images.githubusercontent.com/166420432/407426179-62736dbb-7e54-4c7f-9900-dec90434fca9.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA4MDQ2NzYsIm5iZiI6MTc5MDgwNDM3NiwicGF0aCI6Ii8xNjY0MjA0MzIvNDA3NDI2MTc5LTYyNzM2ZGJiLTdlNTQtNGM3Zi05OTAwLWRlYzkwNDM0ZmNhOS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkzMFQyMTM5MzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMWQ4MmY5ZTE0ZTQ2ODk3ZDNmZTI5NWNjOGYwYjY3MThjN2I4MjNkODY1ZGY5NDdlNDkxOGM2Y2M0Y2VhZWI5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.pq12wYNUGpAX-MhM6HI-VTezSYBs6xCLsZeM8zbzs6k" alt="GEN-Z Store" width="70%" style="border-radius: 6px;" />
         </a>
         <h3>GEN-Z Store</h3>
         <p><b>Full-Featured E-Commerce Web Platform</b></p>
