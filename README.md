@@ -1,6 +1,5 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=200&section=header&text=Hi%2C%20I'm%20Muhammed%20Hesham%20👋&fontSize=38&fontColor=C9D1D9" width="100%" />  </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=200&section=header&text=Hi%2C%20I'm%20Muhammed%20Hesham%20👋&fontSize=38&fontColor=C9D1D9&animation=fadeIn&animDuration=0.3&animDelay=0" width="100%" /></div>
 <div align="center">
 
 
