@@ -1,21 +1,27 @@
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=muuhesham&label=Profile%20Views&style=flat-square" alt="Visitor Count" />
+</div>
 <div align="center">
 
-# Hi, I'm Muhammed Hesham 👋
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=200&section=header&text=Hi%2C%20I'm%20Muhammed%20Hesham%20👋&fontSize=38&fontColor=C9D1D9&animation=fadeIn" width="100%" />
+  </div>
+<div align="center">
 
-<!-- Focused Minimal Typing SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Engineer+%7C+Full-Stack+Developer" alt="Typing SVG" />
-</a>
 
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Engineer+%7C+Full-Stack+Developer" alt="Typing SVG" />
+  </a>
+</div>
 <p align="center">
   <a href="https://www.linkedin.com/in/muhammed-hesham48/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-111927?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://x.com/muhesham__" target="_blank">
-    <img src="https://img.shields.io/badge/X-111927?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
   </a>
   <a href="mailto:muhammedhesham488@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111927?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
@@ -34,7 +40,7 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
   <img src="https://skillicons.dev/icons?i=nodejs,express,ts,php,laravel,cpp&theme=dark" />
 </p>
 
-**Databases & Caching**
+**Databases & ORMs**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,prisma&theme=dark" />
 </p>
@@ -62,7 +68,7 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
       </a>
       <h3 align="center">Fa3liat Web & Mobile Application</h3>
       <p align="center">
-        <b>Real-Time Event Ticketing & Management</b>
+        <b>Event Management & E-Ticketing Web Applicationt</b>
       </p>
       <p align="center">
         <img src="https://skillicons.dev/icons?i=nodejs,express,postgres,redis,docker&theme=dark" height="28" />
@@ -107,7 +113,7 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
           <img src="https://private-user-images.githubusercontent.com/166420432/407426179-62736dbb-7e54-4c7f-9900-dec90434fca9.jpg?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTA4MDQ2NzYsIm5iZiI6MTc5MDgwNDM3NiwicGF0aCI6Ii8xNjY0MjA0MzIvNDA3NDI2MTc5LTYyNzM2ZGJiLTdlNTQtNGM3Zi05OTAwLWRlYzkwNDM0ZmNhOS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwOTMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDkzMFQyMTM5MzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jMWQ4MmY5ZTE0ZTQ2ODk3ZDNmZTI5NWNjOGYwYjY3MThjN2I4MjNkODY1ZGY5NDdlNDkxOGM2Y2M0Y2VhZWI5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9aW1hZ2UlMkZqcGVnIn0.pq12wYNUGpAX-MhM6HI-VTezSYBs6xCLsZeM8zbzs6k" alt="GEN-Z Store" width="70%" style="border-radius: 6px;" />
         </a>
         <h3>GEN-Z Store</h3>
-        <p><b>Full-Featured E-Commerce Web Platform</b></p>
+        <p><b>E-Commerce Web Application</b></p>
         <p>
           <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,js&theme=dark" height="28" />
         </p>
@@ -126,9 +132,28 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
   <h3>Let's Connect & Build Together</h3>
   <p>Open for opportunities: <code>Full-time</code> • <code>Part-time</code> • <code>Remote</code> • <code>Freelance Projects</code></p>
   <a href="mailto:muhammedhesham488@gmail.com">
-    <img src="https://img.shields.io/badge/Get_In_Touch-111927?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Contact Me" />
+    <img src="https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
   </a>
   <a href="https://www.linkedin.com/in/muhammedhesham48/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-111927?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
+
+---
+### 📊 GitHub Stats
+
+<div align="center">
+  <!-- GitHub Overall Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=muuhesham&show_icons=true&theme=dark&count_private=true&hide_border=false" alt="GitHub Stats" height="165" />
+  &nbsp;
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muuhesham&layout=compact&theme=dark&hide_border=false" alt="Top Langs" height="165" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Contribution Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muuhesham&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
+
