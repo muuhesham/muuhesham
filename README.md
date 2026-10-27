@@ -32,7 +32,7 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
 
 **Backend & Architecture**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,php,laravel,cpp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,ts,php,laravel" />
 </p>
 
 **Databases & ORMs**
