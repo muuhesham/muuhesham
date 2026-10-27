@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Engineer+%7C+Full-Stack+Developer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Engineer" alt="Typing SVG" />
   </a>
 </div>
 <p align="center">
@@ -52,11 +52,12 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
 
 ---
 
+<!--
+
 ### Spotlight Projects
 
 <table align="center" width="100%">
   <tr>
-    <!-- Project 1 -->
     <td width="50%" valign="top">
       <a href="https://github.com/muuhesham/graduation_project">
         <img src="https://github.com/user-attachments/assets/b12fe5fe-0d85-4899-bedf-f464a2f74024" alt="Fa3liat Platform" width="100%" style="border-radius: 6px;" />
@@ -76,7 +77,6 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
         <a href="https://github.com/muuhesham/graduation_project"><b>View Source Code →</b></a>
       </p>
     </td>
-    <!-- Project 2 -->
     <td width="50%" valign="top">
       <a href="https://github.com/muuhesham/smart-study-backend">
         <img src="https://github.com/user-attachments/assets/8ae66979-13da-4212-a0bc-1f394ed4e81d" alt="Smart Study Dashboard" width="100%" style="border-radius: 6px;" />
@@ -99,9 +99,10 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
   </tr>
 </table>
 
+
+
 <table align="center" width="100%">
   <tr>
-    <!-- Project 3 -->
     <td width="100%" valign="top">
       <div align="center">
         <a href="https://github.com/muuhesham/ecommerce-website">
@@ -121,7 +122,7 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
   </tr>
 </table>
 
----
+-->
 
 <div align="center">
   <h3>Let's Connect & Build Together</h3>
