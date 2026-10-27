@@ -124,18 +124,6 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
 
 -->
 
-<div align="center">
-  <h3>Let's Connect & Build Together</h3>
-  <p>Open for opportunities: <code>Full-time</code> • <code>Part-time</code> • <code>Remote</code> • <code>Freelance Projects</code></p>
-  <a href="mailto:muhammedhesham488@gmail.com">
-    <img src="https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
-  </a>
-  <a href="https://www.linkedin.com/in/muhammedhesham48/" target="_blank">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
-
----
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -147,9 +135,23 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
 </div>
 
 <br/>
-
 <div align="center">
   <!-- Contribution Streak -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=muuhesham&theme=dark&hide_border=false&mode=weekly" alt="GitHub Weekly Streak" />
 </div>
+
+---
+<div align="center">
+  <h3>Let's Connect & Build Together</h3>
+  <p>Open for opportunities: <code>Full-time</code> • <code>Part-time</code> • <code>Remote</code> • <code>Freelance Projects</code></p>
+  <a href="mailto:muhammedhesham488@gmail.com">
+    <img src="https://img.shields.io/badge/Get_In_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammedhesham48/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
+
+
+
 
