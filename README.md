@@ -150,6 +150,6 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
 
 <div align="center">
   <!-- Contribution Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muuhesham&theme=dark&hide_border=false" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=muuhesham&theme=dark&hide_border=false&mode=weekly" alt="GitHub Weekly Streak" />
 </div>
 
