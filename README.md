@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Engineer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=2000&color=58A6FF&center=true&vCenter=true&width=520&lines=Software+Engineer" alt="Typing SVG" />
   </a>
 </div>
 <p align="center">
@@ -45,7 +45,7 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
   <img src="https://skillicons.dev/icons?i=react,js,tailwind,html,css&theme=dark" />
 </p>
 
-**DevOps, Real-Time & Tools**
+**DevOps & Tools**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,git,github,postman&theme=dark" />
 </p>
