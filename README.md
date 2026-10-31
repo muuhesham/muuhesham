@@ -128,10 +128,10 @@ CS fresh graduate & Full-Stack Software Engineer specializing in building scalab
 
 <div align="center">
   <!-- GitHub Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=muuhesham&show_icons=true&theme=dark&count_private=true&hide_border=false" alt="GitHub Stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=muuhesham&show_icons=true&theme=dark&count_private=true&hide_border=false" alt="GitHub Stats" height="165" />
   &nbsp;
   <!-- Most Used Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muuhesham&layout=compact&theme=dark&hide_border=false" alt="Top Langs" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=muuhesham&layout=compact&theme=dark&hide_border=false" alt="Top Langs" height="165" />
 </div>
 
 <br/>
